@@ -3,7 +3,7 @@
 <h3 align="center">A passionate fullstack developer from India</h3>
 
 
-- 🔭 I’m currently working on [AnoTalk](https://github.com/Pritam08pb/AnoTalk)
+- 🔭 I’m currently working on [AnoTalk](http://anotalk.tech)
 
 - 📫 Reach me **pritamprasanjet8@gmail.com**
   
