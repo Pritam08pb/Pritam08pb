@@ -4,7 +4,7 @@
 
 - 🔭 Currently working on [anotalk.tech](http://anotalk.tech)
 
-- 📫 Reach me on **pritamprasanjet8@gmail.com**
+- 📫 Reach me on **pritamprasanjet8@gmail.com , https://pritam08.000webhostapp.com/**
 
 
   
